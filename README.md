@@ -1,5 +1,8 @@
 # Customer Segmentation Engine
 
+This project is based on a public dataset from Kaggle: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?resource=download
+The full raw data is not included due to size, but all processed features used in modeling are provided.
+
 This project demonstrates a complete end-to-end workflow for customer segmentation using real-world e-commerce clickstream data. The goal is to cluster users based on behavioral patterns and derive actionable business insights.
 
 ## Project Overview
