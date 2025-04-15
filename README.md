@@ -31,7 +31,7 @@ We used a Kaggle dataset containing over 1 million behavioral events (views, car
 - `data/user_behavior_features.csv` – cleaned dataset with features and clusters
 
 ## Sample Visual
-![Cluster PCA Visualization](cluster_pca_plot.png)
+![Cluster PCA Visualization](2d_cluster_plot.png)
 
 ---
 
